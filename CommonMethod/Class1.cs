@@ -8,6 +8,6 @@ namespace CommonMethod
 {
     public class Class1
     {
-
+        //我是你爹
     }
 }
